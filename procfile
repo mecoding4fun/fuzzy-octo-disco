@@ -1,0 +1,2 @@
+web: python Astrobot.py
+worker: python Astrobot.py 
